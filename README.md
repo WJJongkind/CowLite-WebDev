@@ -1,0 +1,2 @@
+# CowLite-WebDev
+CowLite WebDev offers several usefull Java classes that can be used for web-development. CowLite WebDev mainly focusses on the back-end of web-application. Classes that are included involve session management and a basic architecture for handling HTML request such as GET / POST. It is planned to include some database interaction classes and potentially classes that implement communication standards such as JSON.
